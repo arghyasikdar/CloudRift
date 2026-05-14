@@ -1,0 +1,6 @@
+services:
+  cloudrift:
+    build: .
+    command: ["example.com", "--passive-only"]
+    volumes:
+      - ./reports:/app/reports

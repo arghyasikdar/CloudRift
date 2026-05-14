@@ -1,0 +1,4 @@
+{
+  "target": "example.com",
+  "summary": "Example placeholder. Generate a live report with: cloudrift example.com --passive-only --json"
+}
